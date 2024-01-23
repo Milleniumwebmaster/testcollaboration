@@ -1,6 +1,6 @@
 "use strict";
 
-const numberOfBalls = 10;
+const numberOfBalls = 16;
 let numberOfClickedBalls = 0;
 let randomNumbersArray = [];
 let gameOver = false;
